@@ -1,7 +1,5 @@
 # 🗣️ Common Voice - Mozilla Sorted by Speaker
 
-![Common Voice](https://upload.wikimedia.org/wikipedia/commons/a/af/Mozilla_logo%2C_2017.png)
-
 Este repositório organiza os áudios do projeto [Common Voice da Mozilla](https://commonvoice.mozilla.org/) por locutor, facilitando a análise e o uso de dados de voz de forma estruturada.
 
 ---
